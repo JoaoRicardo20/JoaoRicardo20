@@ -1,4 +1,4 @@
-## Hi, I’m João Ricardo
+## Hi, I’m joão Fumagalli
 - 🎩 I'm interested in information security
 - 👨‍💻 I'm currently learning web development and cyber security
 - 🖥️ My desire is to contribute to digital security in the information age
